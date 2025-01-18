@@ -1,0 +1,10 @@
+body {
+  background-color: #ffffff;
+  color: #222;
+  font-family: Georgia, serif;
+}
+
+header h1 {
+  text-align: center;
+  font-size: 2.5rem;
+}
