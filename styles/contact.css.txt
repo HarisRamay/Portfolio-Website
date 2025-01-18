@@ -1,0 +1,35 @@
+body {
+  background-color: #f7f7f7;
+  color: #444;
+  font-family: Verdana, sans-serif;
+}
+
+header h1 {
+  text-align: center;
+  font-size: 2.5rem;
+}
+
+form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+form label {
+  display: block;
+  margin: 10px 0 5px;
+}
+
+form input, form textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+button {
+  display: block;
+  background-color: #007BFF;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
